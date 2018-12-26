@@ -1,8 +1,8 @@
-###################################################
-# Free Of Use                                     # 
-# Blocks Spotify Ads And Audio Ads On Your Lan    #
-# Enjoy Your Music                                #
-###################################################
+################################################
+# Free Of Use                                  # 
+# Blocks Spotify Ads And Audio Ads On Your Lan #
+# Enjoy Your Music                             #
+################################################
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 analytics.spotify.com
